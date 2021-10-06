@@ -3,7 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
-This section will be replaced.
+- [Postmortem: Removing all users from github.com/trivago](https://tech.trivago.com/2021/10/05/postmortem-removing-all-users-from-github.com/trivago/)
+- [How we build the Image Gallery on trivago](https://tech.trivago.com/2021/07/07/how-we-build-the-image-gallery-on-trivago/)
+- [Proper (Java) application life cycle management in Kubernetes](https://tech.trivago.com/2021/06/09/proper-java-application-life-cycle-management-in-kubernetes/)
+- [Remastering Guilds After Five Years](https://tech.trivago.com/2021/05/17/remastering-guilds-after-five-years/)
+- [Designing Marketing Emails via predefined Modules in Salesforce Email Studio](https://tech.trivago.com/2021/04/19/designing-marketing-emails-via-predefined-modules-in-salesforce-email-studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
