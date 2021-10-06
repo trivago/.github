@@ -1,4 +1,4 @@
-![trivago logo](/images/trivago.png)
+![trivago logo](/images/logo-trivago.png)
 
 ### 📝 Latest tech insights
 
