@@ -1,4 +1,14 @@
-## good soup 🍲
+![trivago logo](/images/trivago.png)
+
+### 📝 Latest tech insights
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### We're hiring
+
+We are always on the lookout for new colleagues.
+Check out our [open positions](https://company.trivago.com/open-positions/?gh_src=5d4685202) for more.
 
 <!--
 
