@@ -3,6 +3,7 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+This section will be replaced.
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
