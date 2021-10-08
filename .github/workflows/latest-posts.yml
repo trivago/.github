@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@81e8e9897cbf200255629dfbf58dbd3414a5a7d7 # v1.5.7
         with:
           readme_path: "./profile/README.md"
           feed_list: "https://tech.trivago.com/index.xml"
