@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [Presenting @trivago/prettier-plugin-sort-imports](https://tech.trivago.com/2021/12/17/presenting-trivago/prettier-plugin-sort-imports/)
 - [trivago Tech Check-in: Meet Mohammad](https://tech.trivago.com/2021/11/22/trivago-tech-check-in-meet-mohammad/)
 - [trivago Tech Week 2021 in Review](https://tech.trivago.com/2021/10/27/trivago-tech-week-2021-in-review/)
 - [Postmortem: Removing all users from github.com/trivago](https://tech.trivago.com/2021/10/05/postmortem-removing-all-users-from-github.com/trivago/)
 - [How we build the Image Gallery on trivago](https://tech.trivago.com/2021/07/07/how-we-build-the-image-gallery-on-trivago/)
-- [Proper (Java) application life cycle management in Kubernetes](https://tech.trivago.com/2021/06/09/proper-java-application-life-cycle-management-in-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
