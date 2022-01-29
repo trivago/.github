@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
-- [Being on-call as a software engineer - a challenging and fast learning experience](https://tech.trivago.com/2022/01/12/being-on-call-as-a-software-engineer-a-challenging-and-fast-learning-experience/)
-- [Presenting @trivago/prettier-plugin-sort-imports](https://tech.trivago.com/2021/12/17/presenting-trivago/prettier-plugin-sort-imports/)
-- [trivago Tech Check-in: Meet Mohammad](https://tech.trivago.com/2021/11/22/trivago-tech-check-in-meet-mohammad/)
-- [trivago Tech Week 2021 in Review](https://tech.trivago.com/2021/10/27/trivago-tech-week-2021-in-review/)
-- [Postmortem: Removing all users from github.com/trivago](https://tech.trivago.com/2021/10/05/postmortem-removing-all-users-from-github.com/trivago/)
+- [Being on-call as a software engineer - a challenging and fast learning experience](https://tech.trivago.com/post/2022-01-12-engineeroncall/)
+- [Presenting @trivago/prettier-plugin-sort-imports](https://tech.trivago.com/post/2021-12-17-aprettierpluginthatsortsyourimports/)
+- [trivago Tech Check-in: Meet Mohammad](https://tech.trivago.com/post/2021-11-22-trivagotechcheckinmeetmohammad/)
+- [trivago Tech Week 2021 in Review](https://tech.trivago.com/post/2021-10-27-trivagotechweek2021hybridedition/)
+- [Postmortem: Removing all users from github.com/trivago](https://tech.trivago.com/post/2021-10-05-postmortem-removing-all-users-from-github-trivago/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
