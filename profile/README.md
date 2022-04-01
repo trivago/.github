@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving Evaluation Practices in Natural Language Generation](https://tech.trivago.com/post/2022-03-31-improving-evaluation-practices-in-natural-language-generation/)
 - [Why and how we use primitive maps](https://tech.trivago.com/post/2022-03-09-why-and-how-we-use-primitive-maps/)
 - [A preview of CSS Container Queries](https://tech.trivago.com/post/2022-02-07-css-container-queries/)
 - [Being on-call as a software engineer - a challenging and fast learning experience](https://tech.trivago.com/post/2022-01-12-engineeroncall/)
 - [Presenting @trivago/prettier-plugin-sort-imports](https://tech.trivago.com/post/2021-12-17-aprettierpluginthatsortsyourimports/)
-- [trivago Tech Check-in: Meet Mohammad](https://tech.trivago.com/post/2021-11-22-trivagotechcheckinmeetmohammad/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
