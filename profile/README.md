@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [Powering ML-Based Systems With Reliable Data: The Data Annotation Journey](https://tech.trivago.com/post/2022-09-01-powering-ml-based-systems-with-reliable-data-annotation/)
 - [How we scaled our Prometheus setup](https://tech.trivago.com/post/2022-08-23-how-we-scaled-our-prometheus-setup/)
 - [How to Survive a Regional Outage](https://tech.trivago.com/post/2022-06-10-how-to-survive-a-regional-outage/)
 - [3 Things We Learned When Switching to TypeScript](https://tech.trivago.com/post/2022-08-01-three-learnings-switching-to-typescript/)
 - [SRE: On-Call Procedure at trivago](https://tech.trivago.com/post/2022-07-18-sre-on-call-procedure-at-trivago/)
-- [WARP - A Web Application Rewrite Project](https://tech.trivago.com/post/2022-05-16-warp-a-web-application-rewrite-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
