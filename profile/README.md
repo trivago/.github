@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [What Have I Even Been Doing Today?](https://tech.trivago.com/post/2023-01-03-engineer-to-manager-three-mindset-shifts/)
 - [Marketing Attribution: Evaluating The Path to Purchase in the Product Ecosystem](https://tech.trivago.com/post/2022-12-06-marketing-attribution-evaluating-the-path-to-purchase/)
 - [Explore-exploit dilemma in Ranking model](https://tech.trivago.com/post/2022-11-04-explore-exploit-dilemma-in-ranking-model/)
 - [How to substantially slow down your Node.js server](https://tech.trivago.com/post/2022-09-15-how-to-substantially-slow-down-your-nodejs-server/)
 - [Powering ML-Based Systems With Reliable Data: The Data Annotation Journey](https://tech.trivago.com/post/2022-09-01-powering-ml-based-systems-with-reliable-data-annotation/)
-- [How we scaled our Prometheus setup](https://tech.trivago.com/post/2022-08-23-how-we-scaled-our-prometheus-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
