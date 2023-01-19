@@ -1,6 +1,6 @@
 ![trivago logo](/images/logo-trivago.png)
 
-### 📝 Latest tech insights
+### 📝 What's in the tech news today?
 
 <!-- BLOG-POST-LIST:START -->
 - [What Have I Even Been Doing Today?](https://tech.trivago.com/post/2023-01-03-engineer-to-manager-three-mindset-shifts/)
@@ -10,7 +10,7 @@
 - [Powering ML-Based Systems With Reliable Data: The Data Annotation Journey](https://tech.trivago.com/post/2022-09-01-powering-ml-based-systems-with-reliable-data-annotation/)
 <!-- BLOG-POST-LIST:END -->
 
-### We're hiring
+### We're hiring!
 
 We are always on the lookout for new colleagues.
 Check out our [open positions](https://company.trivago.com/open-positions/?gh_src=5d4685202) for more.
