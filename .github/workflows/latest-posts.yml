@@ -1,13 +1,13 @@
-name: Latest blog post workflow
+name: Latest blog posts from Trivago workflow
 on:
   schedule:
-    # Runs every night at 2 am
-    - cron: "0 2 * * *"
+    # Runs every night at 12 am
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest blog posts from Trivago
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
