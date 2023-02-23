@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [Technical Decision-Making](https://tech.trivago.com/post/2023-02-22-technical-decision-making/)
 - [How we improved reporting and monitoring of test automation results](https://tech.trivago.com/post/2023-02-15-how-we-improved-reporting-and-monitoring-of-test-automation-results/)
 - [How continuous product discovery works for us](https://tech.trivago.com/post/2023-02-01-how-continuous-product-discovery-works-for-us/)
 - [What Have I Even Been Doing Today?](https://tech.trivago.com/post/2023-01-03-engineer-to-manager-three-mindset-shifts/)
 - [Marketing Attribution: Evaluating The Path to Purchase in the Product Ecosystem](https://tech.trivago.com/post/2022-12-06-marketing-attribution-evaluating-the-path-to-purchase/)
-- [Explore-exploit dilemma in Ranking model](https://tech.trivago.com/post/2022-11-04-explore-exploit-dilemma-in-ranking-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
