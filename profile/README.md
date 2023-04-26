@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Data Validation with Great Expectations in Hybrid Environments](https://tech.trivago.com/post/2023-04-25-implementing-data-validation-with-great-expectations-in-hybrid-environments/)
 - [Tech IT Up - Growth and Learning for trivago Techies](https://tech.trivago.com/post/2023-03-23-trivago-tech-conference-2022/)
 - [Our path to FAME](https://tech.trivago.com/post/2023-03-07-our-path-to-fame/)
 - [Technical Decision-Making](https://tech.trivago.com/post/2023-02-22-technical-decision-making/)
 - [How we improved reporting and monitoring of test automation results](https://tech.trivago.com/post/2023-02-15-how-we-improved-reporting-and-monitoring-of-test-automation-results/)
-- [How continuous product discovery works for us](https://tech.trivago.com/post/2023-02-01-how-continuous-product-discovery-works-for-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
