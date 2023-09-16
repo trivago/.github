@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [Experimenting with AI to Enhance Our Product: Firsthand Experience From Our Product Managers](https://tech.trivago.com/post/2023-09-15-experimenting-with-ai-to-enhance-our-product-firsthand-experience-from-our-product-managers/)
 - [QA meetup:  Presentations Summary](https://tech.trivago.com/post/2023-08-02-qa-meetup-summary-and-presentations/)
 - [Boosting design team efficiency: trivago’s Sketch to Figma Journey](https://tech.trivago.com/post/2023-06-15-boosting-design-team-efficiency-trivagos-sketch-to-figma-journey/)
 - [Building Our First GraphQL Server with Go: An Implementation Guide](https://tech.trivago.com/post/2023-05-17-building-our-first-graphql-server-with-go-an-implementation-guide/)
 - [Implementing Data Validation with Great Expectations in Hybrid Environments](https://tech.trivago.com/post/2023-04-25-implementing-data-validation-with-great-expectations-in-hybrid-environments/)
-- [Tech IT Up - Growth and Learning for trivago Techies](https://tech.trivago.com/post/2023-03-23-trivago-tech-conference-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
