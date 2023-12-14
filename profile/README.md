@@ -1,4 +1,4 @@
-![trivago logo](/images/logo-trivago.svg)
+<img src="/images/logo-trivago.svg" width="100%" alt="trivago logo">
 
 ### 📝 Latest tech insights
 
