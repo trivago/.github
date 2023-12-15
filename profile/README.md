@@ -1,4 +1,4 @@
-<img src="/images/logo-trivago.svg" width="100%" alt="trivago logo">
+<img src="/images/logo-trivago.svg" width="80%" alt="trivago logo">
 
 ### 📝 Latest tech insights
 
