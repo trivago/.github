@@ -1,6 +1,6 @@
 <img src="/images/logo-trivago.svg" width="80%" alt="trivago logo">
 
-### 📝 Latest tech insights
+### 📝 What's in the tech news today?
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -11,7 +11,7 @@
 - [Boosting design team efficiency: trivago’s Sketch to Figma Journey](https://tech.trivago.com/post/2023-06-15-boosting-design-team-efficiency-trivagos-sketch-to-figma-journey/)
 <!-- BLOG-POST-LIST:END -->
 
-### We're hiring
+### We're hiring!
 
 We are always on the lookout for new colleagues.
 Check out our [open positions](https://company.trivago.com/open-positions/?gh_src=5d4685202) for more.
