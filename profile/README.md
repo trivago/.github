@@ -3,7 +3,6 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Accelerating experimentations through Simulations](https://tech.trivago.com/post/2023-11-20-accelerating-experimentations-through-simulations/)
 - [End-to-end tests retry strategies](https://tech.trivago.com/post/2023-09-27-end-to-end-tests-retry-strategies/)
 - [Experimenting with AI to Enhance Our Product: Firsthand Experience From Our Product Managers](https://tech.trivago.com/post/2023-09-15-experimenting-with-ai-to-enhance-our-product-firsthand-experience-from-our-product-managers/)
