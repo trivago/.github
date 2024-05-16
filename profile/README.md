@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [Image Migration to Google Cloud Platform](https://tech.trivago.com/post/2024-05-14-image-migration-to-gcp/)
 - [Women in Tech Meetup](https://tech.trivago.com/post/2024-03-27-women-in-tech-meetup/)
 - [Real-world Insights: Anomaly Detection in Internet Traffic](https://tech.trivago.com/post/2024-02-13-real-world-insights-anomaly-detection-in-internet-traffic/)
 - [Accelerating experimentations through Simulations](https://tech.trivago.com/post/2023-11-20-accelerating-experimentations-through-simulations/)
 - [End-to-end tests retry strategies](https://tech.trivago.com/post/2023-09-27-end-to-end-tests-retry-strategies/)
-- [Experimenting with AI to Enhance Our Product: Firsthand Experience From Our Product Managers](https://tech.trivago.com/post/2023-09-15-experimenting-with-ai-to-enhance-our-product-firsthand-experience-from-our-product-managers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
