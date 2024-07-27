@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [AI and Innovation Take Center Stage at trivago Tech Get Together 2024](https://tech.trivago.com/post/2024-07-25-ai-and-innovation-innovation-take-center-stage-at-trivago-tech-get-together-2024/)
 - [Streamlining GraphQL Service Testing with Karate](https://tech.trivago.com/post/2024-07-08-streamlining-graphql-service-testing-with-karate/)
 - [QA Meetup - 2nd Edition: Presentations and Recap](https://tech.trivago.com/post/2024-05-21-qa-meetup-2nd-edition-presentations-and-recap/)
 - [Image Migration to Google Cloud Platform](https://tech.trivago.com/post/2024-05-14-image-migration-to-gcp/)
 - [Women in Tech Meetup](https://tech.trivago.com/post/2024-03-27-women-in-tech-meetup/)
-- [Real-world Insights: Anomaly Detection in Internet Traffic](https://tech.trivago.com/post/2024-02-13-real-world-insights-anomaly-detection-in-internet-traffic/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
