@@ -1,6 +1,6 @@
 <img src="/images/logo-trivago.svg" width="80%" alt="trivago logo">
 
-### 📝 Latest tech insights
+### 📝 What's in the tech news today?
 
 <!-- BLOG-POST-LIST:START -->
 - [AI and Innovation Take Center Stage at trivago Tech Get Together 2024](https://tech.trivago.com/post/2024-07-25-ai-and-innovation-innovation-take-center-stage-at-trivago-tech-get-together-2024/)
@@ -10,7 +10,7 @@
 - [Women in Tech Meetup](https://tech.trivago.com/post/2024-03-27-women-in-tech-meetup/)
 <!-- BLOG-POST-LIST:END -->
 
-### We're hiring
+### We're hiring!
 
 We are always on the lookout for new colleagues.
 Check out our [open positions](https://company.trivago.com/open-positions/?gh_src=5d4685202) for more.
