@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [How we aggregate 70 billion prices to show price context to our users](https://tech.trivago.com/post/2025-02-13-how-we-aggregate-70-billion-prices-to-show-price-context-to-our-users/)
 - [How We Build: Behind the Frontend of trivago’s Website](https://tech.trivago.com/post/2025-01-27-frontend-at-trivago-behind-the-scenes/)
 - [Behind trivago's Smart AI Search: From Concept to Reality](https://tech.trivago.com/post/2024-12-17-behind-trivagos-ai-search-from-concept-to-reality/)
 - [AI and Innovation Take Center Stage at trivago Tech Get Together 2024](https://tech.trivago.com/post/2024-07-25-ai-and-innovation-innovation-take-center-stage-at-trivago-tech-get-together-2024/)
 - [Streamlining GraphQL Service Testing with Karate](https://tech.trivago.com/post/2024-07-08-streamlining-graphql-service-testing-with-karate/)
-- [QA Meetup - 2nd Edition: Presentations and Recap](https://tech.trivago.com/post/2024-05-21-qa-meetup-2nd-edition-presentations-and-recap/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
