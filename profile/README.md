@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [How Not to Fight with Product Managers - as a Developer](https://tech.trivago.com/post/2026-02-02-how-not-to-fight-with-product-managers-as-a-developer/)
 - [Mob Programming: Smells Like Team Spirit](https://tech.trivago.com/post/2025-12-03-mob-programming-smells-like-team-spirit/)
 - [AI at trivago: from experimentation to everyday impact](https://tech.trivago.com/post/2025-10-30-ai-at-trivago-from-experimentation-to-everyday-impact/)
 - [Tailor-made browser extensions for increased testing efficiency](https://tech.trivago.com/post/2025-04-23-tailor-made-browser-extensions-for-increased-testing-efficiency/)
 - [Life of SRE as a Salesperson](https://tech.trivago.com/post/2024-12-20-life-of-sre-as-a-salesperson/)
-- [How we aggregate 70 billion prices to show price context to our users](https://tech.trivago.com/post/2025-02-13-how-we-aggregate-70-billion-prices-to-show-price-context-to-our-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
