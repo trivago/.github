@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [From Always-On to On-Demand: Scaling Kafka Sinks with KEDA](https://tech.trivago.com/post/2026-02-18-from-always-on-to-on-demand-scaling-kafka-sinks-with-keda/)
+- [How a Learning Project Became Our Modern Mobile Test Framework](https://tech.trivago.com/post/2026-02-18-how-a-learning-project-became-our-modern-mobile-test-framework/)
 - [How Not to Fight with Product Managers - as a Developer](https://tech.trivago.com/post/2026-02-02-how-not-to-fight-with-product-managers-as-a-developer/)
 - [Mob Programming: Smells Like Team Spirit](https://tech.trivago.com/post/2025-12-03-mob-programming-smells-like-team-spirit/)
 - [AI at trivago: from experimentation to everyday impact](https://tech.trivago.com/post/2025-10-30-ai-at-trivago-from-experimentation-to-everyday-impact/)
-- [Tailor-made browser extensions for increased testing efficiency](https://tech.trivago.com/post/2025-04-23-tailor-made-browser-extensions-for-increased-testing-efficiency/)
-- [Life of SRE as a Salesperson](https://tech.trivago.com/post/2024-12-20-life-of-sre-as-a-salesperson/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
