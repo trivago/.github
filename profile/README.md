@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [My 2 Cents: I'll gladly spend them to stop staring at test logs](https://tech.trivago.com/post/2026-04-15-my-2-cents-ill-gladly-spend-them-to-stop-staring-at-test-logs/)
 - [Unifying Internal APIs: A Different Use Case for GraphQL Gateways](https://tech.trivago.com/post/2026-03-27-unifying-internal-apis-a-different-use-case-for-graphql-gateways/)
 - [From a long list to a clear signal: baseline-driven accessibility reporting](https://tech.trivago.com/post/2026-03-13-from-a-long-list-to-a-clear-signal-baseline-driven-accessibility-reporting/)
 - [From Always-On to On-Demand: Scaling Kafka Sinks with KEDA](https://tech.trivago.com/post/2026-02-18-from-always-on-to-on-demand-scaling-kafka-sinks-with-keda/)
 - [How a Learning Project Became Our Modern Mobile Test Framework](https://tech.trivago.com/post/2026-02-18-how-a-learning-project-became-our-modern-mobile-test-framework/)
-- [How Not to Fight with Product Managers - as a Developer](https://tech.trivago.com/post/2026-02-02-how-not-to-fight-with-product-managers-as-a-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
