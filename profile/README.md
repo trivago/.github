@@ -3,11 +3,11 @@
 ### 📝 Latest tech insights
 
 <!-- BLOG-POST-LIST:START -->
+- [Spin-Up, Test, Tear-Down: How trivago Runs 600+ Preview Environments on Kubernetes](https://tech.trivago.com/post/2026-10-20-spin-up-test-tear-down-how-trivago-runs-600-preview-environments-on-kubernetes/)
 - ["I'm Sorry, Have We Met?" — Frictionless Memory for AI](https://tech.trivago.com/post/2026-10-16-im-sorry-have-we-met--frictionless-memory-for-ai/)
 - [From Tools to Teammates: How AI Empowered Our UX Team to Level Up](https://tech.trivago.com/post/2026-10-02-from-tools-to-teammates-how-ai-empowered-our-ux-team-to-level-up/)
 - [Agents, Randomness, and Receipts: Notes from trivago's QA Meetup](https://tech.trivago.com/post/2026-08-12-agents-randomness-and-receipts-notes-from-trivagos-qa-meetup/)
 - [Frictionless: A recap of trivago Tech Get Together 2026](https://tech.trivago.com/post/2026-06-30-frictionless-a-recap-of-trivago-tech-get-together-2026/)
-- [How We Cut Kafka Consumer Deployment Costs by 83%](https://tech.trivago.com/post/2026-06-12-how-we-cut-kafka-consumer-deployment-costs-by-83/)
 <!-- BLOG-POST-LIST:END -->
 
 ### We're hiring
